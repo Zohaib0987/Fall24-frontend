@@ -1,0 +1,21 @@
+.hero {
+    text-align: center;
+    background-image: url('/assets/hero-burger.jpg');
+    background-size: cover;
+    color: #fff;
+    padding: 4rem 0;
+  }
+  
+  .hero h2 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  .hero button {
+    padding: 0.5rem 2rem;
+    background-color: #f8b400;
+    color: #ffffff;
+    border: none;
+    cursor: pointer;
+  }
+  
